@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
-<h3 align="center">Student at the National University of La Plata (UNLP)</h3>
+<h3 align="center">Technical student in programming at the National University of la Plata (UNLP)</h3>
 
 - 🌱 I’m currently learning **Node, Express y MongoDB**
 
