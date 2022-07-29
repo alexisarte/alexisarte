@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
-<h3 align="center">Student at the National University of La Plata (UNLP)</h3>
+<h3 align="center">Student of the Analyst career in Information and Communication Technologies at the National University of La Plata</h3>
 
 - 🌱 I’m currently learning **React, MongoDB, SQL, Docker and Linux**
 
-- 👨‍💻 All of my projects are available at [alexis-rodriguez.me](alexis-rodriguez.me)
+- 👨‍💻 All of my projects are available at [https://alexis-rodriguez.me/](https://alexis-rodriguez.me/)
 
 - 💬 Ask me about **react**
 
