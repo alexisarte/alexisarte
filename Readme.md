@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://alexis-rodriguez.me/](https://alexis-rodriguez.me/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **HTML, CSS and JavaScript**
 
 - 📫 How to reach me **alexisrodriguezarteaga@gmail.com**
 
