@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
 <h3 align="center">Student of the Analyst career in Information and Communication Technologies at the National University of La Plata</h3>
 
-- 🌱 I’m currently learning **React, MongoDB, SQL, Docker and Linux**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://alexis-rodriguez.me/](https://alexis-rodriguez.me/)
 
-- 💬 Ask me about **HTML, CSS and JavaScript**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **alexisrodriguezarteaga@gmail.com**
 
