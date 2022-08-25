@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
-<h3 align="center">I am a full stack web developer in process, training myself in a self-taught way to get my first job in the web development industry, I am also studying the career of ICT Analyst at the National University of La Plata</h3>
+<h3 align="center">I am a full stack web developer in progress, training myself in a self-taught way to get my first job in the web development industry, I am also studying the career of ICT Analyst at the National University of La Plata.</h3>
 
 - 🌱 I’m currently learning **React**
 
