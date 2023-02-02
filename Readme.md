@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis Rodriguez</h1>
-<h3 align="center">I am a potential Frontend Web Developer, studying computer science at the University of La Plata. I enjoy creating unique and simplistic user interfaces in a creative way.</h3>
+<h3 align="center">I am a potential Frontend Web Developer, studying Computer Science at the University of La Plata. I enjoy creating unique and simplistic user interfaces in a creative way.</h3>
 
 - 🌱 I’m currently learning **React, TypeScript**
 
