@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexis Rodriguez</h1>
+<h1 align="center">Hi \👋, I'm Alexis Rodriguez</h1>
 <h3 align="center">Frontend Web Developer, studying Computer Science at the University of La Plata. I enjoy creating unique and simplistic user interfaces in a creative way.</h3>
 
 - 🌱 I’m currently learning **React, TypeScript**
