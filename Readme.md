@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://alexisarte.github.io/](https://alexisarte.github.io/)
+- 👨‍💻 All of my projects are available at https://alexis-rodriguez.software/
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
