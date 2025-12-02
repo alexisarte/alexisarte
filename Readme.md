@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NestJS, TypeScript**
 
-- 👨‍💻 All of my projects are available at https://alexis-rodriguez.software/
+- 👨‍💻 All of my projects are available at https://alexisarte.github.io/
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
